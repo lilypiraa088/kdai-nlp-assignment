@@ -1,0 +1,7 @@
+opensearch-py
+sentence-transformers
+openai
+tqdm
+langchain==0.0.354
+langchain_community
+numpy

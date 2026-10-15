@@ -1,0 +1,214 @@
+สร้าง vector index anthropic-vector-index สำเร็จ
+สร้าง BM25 index anthropic-bm25-index สำเร็จ
+Loading documents from 4 files...
+Split documents into 53 chunks
+Loaded 53 documents
+
+Adding 53 documents to OpenSearch with contextual information...
+Generated context for chunk 1/53: This chunk is the title and author information of ...
+Generated context for chunk 2/53: The chunk provides a comprehensive overview of Ger...
+Generated context for chunk 3/53: ข้อมูลนี้อธิบายสาเหตุ การติดต่อ กลไกการเกิดโรค ระย...
+Generated context for chunk 4/53: อาการของโรคหัดเยอรมัน แบ่งออกเป็นการติดเชื้อในเด็ก...
+Generated context for chunk 5/53: ภาวะแทรกซ้อนของโรคหัดเยอรมันพบได้น้อยมาก แต่อาจเกิ...
+Generated context for chunk 6/53: ภาวะแทรกซ้อนที่อาจพบได้ในคนทั่วไปที่เป็นโรคหัดเยอร...
+Generated context for chunk 7/53: ภาวะแทรกซ้อนที่พบได้ในหญิงตั้งครรภ์ เนื่องจากเชื้อ...
+Generated context for chunk 8/53: This chunk provides a detailed list of symptoms an...
+Generated context for chunk 9/53: การแยกโรคตามอาการไข้ เจ็บคอ น้ำมูกไหล ไอ และผื่นที...
+Generated context for chunk 10/53: วิธีการรักษาโรคหัดเยอรมันในเด็กและผู้ใหญ่ทั่วไป รว...
+Generated context for chunk 11/53: คำแนะนำและการปฏิบัติตัวของผู้ป่วยโรคหัดเยอรมัน รวม...
+Generated context for chunk 12/53: ข้อมูลนี้อยู่ในส่วนที่อธิบายถึงสถานการณ์ต่างๆ ที่ค...
+Generated context for chunk 13/53: The chunk provides a list of traditional Thai herb...
+Generated context for chunk 14/53: วิธีป้องกันโรคหัดเยอรมันโดยการฉีดวัคซีน MMR และคำแ...
+Generated context for chunk 15/53: The chunk provides links to articles about measles...
+Generated context for chunk 16/53: This chunk contains the references and sources use...
+Generated context for chunk 17/53: This chunk provides an overview of Medthai, a webs...
+Generated context for chunk 18/53: This chunk is the title and author information of ...
+Generated context for chunk 19/53: This chunk provides a comprehensive overview of ch...
+Generated context for chunk 20/53: This chunk provides a comprehensive overview of th...
+Generated context for chunk 21/53: This chunk provides a comprehensive overview of th...
+Generated context for chunk 22/53: ภาวะแทรกซ้อนของอหิวาตกโรค รวมถึงภาวะขาดน้ำ ช็อก ภา...
+Generated context for chunk 23/53: การวินิจฉัยและการรักษาอหิวาตกโรค รวมถึงอาการและการ...
+Generated context for chunk 24/53: This chunk provides a comprehensive overview of th...
+Generated context for chunk 25/53: คำแนะนำและข้อควรรู้เกี่ยวกับการป้องกันและการรักษาอ...
+Generated context for chunk 26/53: วิธีป้องกันอหิวาตกโรคโดยการสร้างสุขนิสัยส่วนตัวที่...
+Generated context for chunk 27/53: This chunk provides a list of references and sourc...
+Generated context for chunk 28/53: The chunk is the full title and introductory sente...
+Generated context for chunk 29/53: This chunk provides a detailed explanation of cata...
+Generated context for chunk 30/53: The chunk provides a comprehensive overview of the...
+Generated context for chunk 31/53: This chunk provides a detailed description of the ...
+Generated context for chunk 32/53: การวินิจฉัยต้อกระจกโดยการตรวจลักษณะตาและใช้เครื่อง...
+Generated context for chunk 33/53: ภาวะแทรกซ้อนของต้อกระจกที่อาจเกิดขึ้นหากไม่ได้รับก...
+Generated context for chunk 34/53: วิธีรักษาต้อกระจก รวมถึงการวินิจฉัย การตัดสินใจผ่า...
+Generated context for chunk 35/53: This chunk describes the standard method of catara...
+Generated context for chunk 36/53: ขั้นตอนการผ่าตัดต้อกระจกและการดูแลหลังผ่าตัด รวมถึ...
+Generated context for chunk 37/53: ผลการรักษาต้อกระจกด้วยการผ่าตัด รวมถึงการฟื้นฟูการ...
+Generated context for chunk 38/53: วิธีป้องกันต้อกระจกโดยหลีกเลี่ยงปัจจัยเสี่ยง เช่น ...
+Generated context for chunk 39/53: This chunk lists related articles on eye condition...
+Generated context for chunk 40/53: This chunk contains the references and sources use...
+Generated context for chunk 41/53: This chunk provides an overview of Medthai, a heal...
+Generated context for chunk 42/53: The chunk is the title and author information of a...
+Generated context for chunk 43/53: The chunk provides an overview of Gastroesophageal...
+Generated context for chunk 44/53: This chunk provides a detailed explanation of the ...
+Generated context for chunk 45/53: This chunk provides a comprehensive list of risk f...
+Generated context for chunk 46/53: อาการของโรคกรดไหลย้อนในผู้ใหญ่และทารก รวมถึงอาการส...
+Generated context for chunk 47/53: ภาวะแทรกซ้อนของโรคกรดไหลย้อนที่อาจเกิดขึ้นหากไม่ได...
+Generated context for chunk 48/53: การวินิจฉัยโรคกรดไหลย้อนโดยแพทย์ผ่านการตรวจอาการ ก...
+Generated context for chunk 49/53: This chunk provides a comprehensive guide on the t...
+Generated context for chunk 50/53: วิธีป้องกันและการจัดการโรคกรดไหลย้อน รวมถึงการปรับ...
+Generated context for chunk 51/53: The chunk is a section of a document that lists re...
+Generated context for chunk 52/53: This chunk contains the references and acknowledgm...
+Generated context for chunk 53/53: This chunk provides an overview of Medthai, a webs...
+Successfully added 53 documents to vector index
+Successfully added 53 documents to BM25 index
+
+Question: ผมจะรู้ได้อย่างไรว่าผมเป็นโรคหัดแบบไหน
+
+Sparse search found 0 results
+Dense search found 10 results
+RRF fusion returned 10 results
+
+Found 5 relevant documents for question: 'ผมจะรู้ได้อย่างไรว่าผมเป็นโรคหัดแบบไหน'
+
+DOCUMENT 1/5
+Score: 0.016666666666666666
+Doc ID: doc_3
+
+Content:
+## อาการของโรคหัดเยอรมัน
+
+อาการของโรคหัดเยอรมัน สามารถแบ่งออกได้เป็น
+
+- การติดเชื้อในเด็กตั้งแต่หลังคลอดเป็นต้นไปและในผู้ใหญ่ โดยประมาณ 50% ของผู้ที่ติดเชื้อหัดเยอรมันจะไม่มีอาการ (บางรายอาจเป็นหัดเยอรมันโดยไม่มีผื่นขึ้น แต่ยังคงสามารถแพร่เชื้อไปให้ผู้อื่นได้อยู่) ส่วนผู้ที่มีอาการก็จะแบ่งเป็นระยะก่อนออกผื่นและระยะออกผื่นเช่นเดียวกับโรคหัด ดังนี้
+  - ระยะก่อนออกผื่น : เริ่มแรกอาจมีอาการไม่สบายเพียงเล็กน้อย เช่น มีไข้ต่ำ ๆ ถึงปานกลาง ไม่เกิน 38.5 องศาเซลเซียส ปวดศีรษะ ปวดกระบอกตา โดยเฉพาะเวลากลอก...(truncated)
+
+DOCUMENT 2/5
+Score: 0.01639344262295082
+Doc ID: doc_1
+
+DOCUMENT 3/5
+Score: 0.016129032258064516
+Doc ID: doc_6
+
+DOCUMENT 4/5
+Score: 0.015873015873015872
+Doc ID: doc_2
+
+DOCUMENT 5/5
+Score: 0.015625
+Doc ID: doc_7
+
+Final Answer: เพื่อให้ทราบว่าคุณเป็นโรคหัดแบบไหน ควรพิจารณาอาการและประวัติการติดเชื้อของตนเอง โดยเฉพาะลักษณะของผื่น ไข้ และอาการอื่น ๆ ที่เกิดขึ้น ดังนี้:
+
+### 1. **โรคหัด (Measles)**
+- **อาการ:** 
+  - ไข้สูง (เกิน 38.5 องศาเซลเซียส)
+  - ผื่นแดงและคัน เริ่มจากหน้าแล้วกระจายลงมาตามลำตัวและแขนขา
+  - ตาแดงและไวต่อแสง
+  - น้ำมูกไหลและไอ
+  - อาจมีจุดขาวเล็ก ๆ ในปาก (Koplik spots) ประมาณ 2-3 วันก่อนผื่นขึ้น
+- **ระยะฟักตัว:** ประมาณ 10-14 วัน
+- **ระยะติดต่อ:** 4 วันก่อนและ 4 วันหลังผื่นขึ้น
+
+### 2. **โรคหัดเยอรมัน (German Measles/Rubella)**
+- **อาการ:**
+  - ไข้ต่ำ ๆ ถึงปานกลาง (ไม่เกิน 38.5 องศาเซลเซียส)
+  - ผื่นราบแบนสีชมพูขนาดเล็ก เริ่มจากหน้าแล้วกระจายลงมาตามลำตัวและแขนขา
+  - ตาแดงเล็กน้อย
+  - ต่อมน้ำเหลืองโต สามารถคลำได้เป็นเม็ดตะปุ่มตะป่ำ ตรงหลังหู หลังคอ ท้ายทอย และข้างคอทั้ง 2 ข้าง
+  - อาจมีจุดแดงขนาดเท่าปลายเข็มที่เพดานอ่อนในปาก (Forchheimer spots) ซึ่งมักจะเป็นอยู่เพียง 24 ชั่วโมง
+- **ระยะฟักตัว:** ประมาณ 12-24 วัน โดยเฉลี่ยประมาณ 16-18 วัน
+- **ระยะติดต่อ:** 5 วันก่อนผื่นขึ้นจนกระทั่ง 6 วันหลังจากผื่นเริ่มขึ้น
+
+### 3. **อีสุกอีใส (Chickenpox/Varicella)**
+- **อาการ:**
+  - ไข้ต่ำ ๆ ถึงปานกลาง
+  - ผื่นแดงและคัน เริ่มจากหน้าและลำตัวแล้วกระจายไปตามแขนและขา
+  - ผื่นจะกลายเป็นตุ่มน้ำใสและแตกเป็นแผล
+- **ระยะฟักตัว:** ประมาณ 10-21 วัน โดยเฉลี่ยประมาณ 14 วัน
+- **ระยะติดต่อ:** 1-2 วันก่อนผื่นขึ้นจนกระทั่งตุ่มน้ำแห้งและกลายเป็นสะเก็ด
+
+### วิธีการวินิจฉัย
+- **การตรวจร่างกาย:** แพทย์จะตรวจดูลักษณะของผื่น ไข้ และอาการอื่น ๆ
+- **การตรวจเลือด:** เพื่อตรวจหาสารภูมิต้านทาน (แอนติบอดี) ต่อเชื้อที่ก่อให้เกิดโรค
+- **การเพาะเชื้อ:** จากจมูกและคอหอยของผู้ป่วย
+
+### คำแนะนำ
+- **ปรึกษาแพทย์:** หากคุณมีอาการคล้ายกับที่กล่าวมา ควรปรึกษาแพทย์เพื่อได้การวินิจฉัยที่ถูกต้องและรับการรักษาที่เหมาะสม
+- **การป้องกัน:** ฉีดวัคซีนป้องกันโรคหัด หัดเยอรมัน และอีสุกอีใส (MMR) เพื่อลดความเสี่ยงในการติดเชื้อ
+
+การวินิจฉัยที่ถูกต้องจะช่วยให้
+
+Question: โรคต้อกระจก หรือโรคอะไรที่เกี่ยวข้องกันบ้าง
+
+Sparse search found 2 results
+Dense search found 10 results
+RRF fusion returned 10 results
+
+Found 5 relevant documents for question: 'โรคต้อกระจก หรือโรคอะไรที่เกี่ยวข้องกันบ้าง'
+
+DOCUMENT 1/5
+Score: 0.03333333333333333
+Doc ID: doc_28
+Context: This chunk provides a detailed explanation of cataracts, including the definition, symptoms, and the role of the lens in the eye. It also includes a comparison table showing the difference between a normal eye and an eye with a cataract.
+
+Content:
+## โรคต้อกระจก
+
+ต้อกระจก (Cataract) เป็นภาวะที่แก้วตาภายในลูกตาเสื่อมลงจนมีลักษณะขุ่นขาวจากปกติที่มีลักษณะโปร่งใสเหมือนกระจก เมื่อแก้วตาขุ่นขาวก็จะมีลักษณะทึบแสง ทำให้บดบังแสงที่จะผ่านเข้าไปในตา แสงจึงส่งผ่านเข้าสู่ลูกตาไปรวมตัวที่จอประสาทตาหรือเรตินาได้ไม่เต็มที่ ทำให้เกิดอาการสายตาฝ้าฟางหรือสายตามัวคล้ายหมอกบัง
+
+**หมายเหตุ** : แก้วตา หรือ เลนส์ตา (Lens) เป็นเลนส์นูนใสที่อยู่หลังม่านตา มีลักษณะเหมือนเลนส์นูนทั่วไปทั้งด้านหน้าและด้านหลัง ซึ่งด้านหน้าจะแบนกว่าด้านหลัง มีขนาดเส้นผ่าศูนย์กลางประมาณ...(truncated)
+
+DOCUMENT 2/5
+Score: 0.031544957774465976
+Doc ID: doc_39
+Context: This chunk contains the references and sources used in the document, including books, online articles, and websites, as well as the image sources and the entity responsible for compiling the information.
+
+DOCUMENT 3/5
+Score: 0.01639344262295082
+Doc ID: doc_38
+
+DOCUMENT 4/5
+Score: 0.016129032258064516
+Doc ID: doc_27
+
+DOCUMENT 5/5
+Score: 0.015873015873015872
+Doc ID: doc_29
+
+Final Answer: โรคต้อกระจก (Cataract) เป็นภาวะที่แก้วตาภายในลูกตาเสื่อมลงจนมีลักษณะขุ่นขาว ทำให้แสงที่ผ่านเข้าตาถูกบดบัง ส่งผลให้การมองเห็นลดลง หรือมีอาการสายตาฝ้าฟาง หรือสายตามัวคล้ายหมอกบัง
+
+นอกจากต้อกระจกแล้ว ยังมีโรคตาอื่นๆ ที่เกี่ยวข้องและมีอาการคล้ายกัน หรืออาจส่งผลต่อการเกิดต้อกระจกได้ ดังนี้:
+
+1. **ต้อหิน (Glaucoma)**:
+   - **อาการ**: ตาแดง, ปวดตา, มองเห็นภาพเบลอ, มีแสงจ้า, สายตาฝ้าฟาง, วิงเวียนศีรษะ, คลื่นไส้
+   - **สาเหตุ**: ความดันตาสูง, ภาวะการไหลเวียนของน้ำในตาผิดปกติ
+   - **การรักษา**: การใช้ยาหยอดตา, ศัลยกรรม
+
+2. **ต้อลม (Pinguecula)**:
+   - **อาการ**: ตาแดง, มีตุ่มหรือก้อนเนื้อขาว ๆ บนเยื่อบุตา, ตาแห้ง, แสบตา
+   - **สาเหตุ**: การสัมผัสแสงแดดหรือลมเป็นเวลานาน, ภาวะแห้งของตา
+   - **การรักษา**: การใช้ยาหยอดตาเพื่อลดการอักเสบ, การผ่าตัดในกรณีที่มีอาการรุนแรง
+
+3. **ต้อเนื้อ (Pterygium)**:
+   - **อาการ**: ตาแดง, มีเนื้อขาว ๆ หรือเนื้อใส ๆ ขึ้นในตา, ตาแห้ง, แสบตา, มองเห็นภาพเบลอ
+   - **สาเหตุ**: การสัมผัสแสงแดดหรือลมเป็นเวลานาน, ภาวะแห้งของตา
+   - **การรักษา**: การใช้ยาหยอดตาเพื่อลดการอักเสบ, การผ่าตัดในกรณีที่มีอาการรุนแรง
+
+4. **ต้อลมแห้ง (Dry Eye Syndrome)**:
+   - **อาการ**: ตาแห้ง, แสบตา, ตาแดง, มองเห็นภาพเบลอ, มีความรู้สึกเหมือนมีฝุ่นหรือทรายในตา
+   - **สาเหตุ**: ภาวะแห้งของตา, การสัมผัสลมหรือแสงแดด, การใช้คอมพิวเตอร์เป็นเวลานาน
+   - **การรักษา**: การใช้ยาหยอดตาเพื่อลดการแห้ง, การใช้เครื่องช่วยความชื้น
+
+5. **ต้อหินในเด็ก (Congenital Glaucoma)**:
+   - **อาการ**: ตาแดง, ตาโต, น้ำตาไหล, ตาไวต่อแสง, คลานหรือก้มศีรษะเพื่อหลบแสง
+   - **สาเหตุ**: ความผิดปกติของโครงสร้างตาตั้งแต่กำเนิด
+   - **การรักษา**: ศัลยกรรมเพื่อปรับปรุงการไหลเวียนของน้ำในตา
+
+6. **ต้อกระจกในเด็ก (Congenital Cataract)**:
+   - **อาการ**: ตาขาวขุ่น, สายตาฝ้าฟาง, มองเห็นภาพเบลอ
+   - **สาเหตุ**: การติดเชื้อในช่วงตั้งครรภ์, ภาวะทุพโภชนาการ, กรรมพันธุ์
+   - **การรักษา**: ศัลยกรรมเพื่อเอาแก้วตาออกและใส่เลนส์เทียม
+
+7. **ต้อกระจกจากการได้รับบาดเจ็บ (Traumatic Cataract)**:
+   - **อาการ**: ตาขาวขุ่น, สายตาฝ้าฟาง, มองเห็นภาพเบลอ
+   - **สา
